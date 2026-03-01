@@ -1,4 +1,4 @@
-if SHIELD_CHONKV
+if SHIELD_chonkv
 
 config ZMK_KEYBOARD_NAME
     default "ChonkV"
