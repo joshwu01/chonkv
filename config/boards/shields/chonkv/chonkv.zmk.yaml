@@ -4,6 +4,7 @@ name: ChonkV
 type: shield
 url: https://github.com/imstubtw/chonkv/
 requires: [pro_micro]
+exposes: [i2c_oled]
 features:
   - keys
-  - i2c_oled
+  - display
