@@ -13,4 +13,4 @@ config I2C
 config SSD1306
     default y
 
-endif # ZMK_DISPLAY
+endif
