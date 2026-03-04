@@ -1,2 +1,15 @@
+# Build artifacts
+build/
+artifacts/
 
-.DS_Store
+# ZMK
+zephyr/
+!zephyr/module.yml
+
+# West managed directories
+.west/
+modules/
+tools/
+
+# West projects from config/west.yml
+zmk/
